@@ -1,0 +1,5 @@
+{
+  "name": "Video to GIF Creator",
+  "description": "An application to upload a video, select specific segments, extract frames, and generate GIFs from those frames.",
+  "requestFramePermissions": []
+}
